@@ -1,0 +1,17 @@
+{
+    "name": "basic-rabbitmq",
+    "version": "1.0.0",
+    "description": "",
+    "main": "consumer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "amqplib": "^0.10.4",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.10.2",
+        "uuid": "^10.0.0"
+    }
+}
